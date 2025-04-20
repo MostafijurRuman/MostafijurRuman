@@ -1,6 +1,6 @@
-﻿# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MostafijurRuman&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=MostafijurRuman&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/MostafijurRuman?style=social)
 
 ## About Me
@@ -23,8 +23,18 @@ Here are some of my favorite projects:
 - [**E-Commerce Platform**](#): A full-stack e-commerce application with modern features.
 
 ## GitHub Stats
-![Mostafijur Ruman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafijurRuman&show_icons=true&theme=radical)  
+
+### 📈 GitHub Contributions & Stats
+![Mostafijur Ruman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafijurRuman&show_icons=true&theme=radical)
+
+### 🏆 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=MostafijurRuman&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafijurRuman&layout=compact&theme=radical)
+
+### ⚡ GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MostafijurRuman&theme=react-dark)
 
 ## Get in Touch
 - 📫 Email: [mostafijurruman7@gmail.com](mailto:mostafijurruman7@gmail.com)
