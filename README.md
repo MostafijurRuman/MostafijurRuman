@@ -33,8 +33,6 @@ Here are some of my favorite projects:
 ### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafijurRuman&layout=compact&theme=radical)
 
-### ⚡ GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MostafijurRuman&theme=react-dark)
 
 ## Get in Touch
 - 📫 Email: [mostafijurruman7@gmail.com](mailto:mostafijurruman7@gmail.com)
