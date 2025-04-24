@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MostafijurRuman&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MostafijurRuman&color=blue)  
 ![GitHub Stars](https://img.shields.io/github/stars/MostafijurRuman?style=social)
 
 ## About Me
@@ -22,20 +22,17 @@ Here are some of my favorite projects:
 - [**Portfolio Website**](#): A personal portfolio showcasing my skills and projects.
 - [**E-Commerce Platform**](#): A full-stack e-commerce application with modern features.
 
+## GitHub Stack
+- **Repositories:** ![Total Repositories](https://img.shields.io/github/repo-count/MostafijurRuman?style=flat-square)
+- **Current Streak:** ![GitHub Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true)
+- **Longest Streak:** ![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true&mode=longest)
+
 ## GitHub Stats
-
-### 📈 GitHub Contributions & Stats
-![Mostafijur Ruman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafijurRuman&show_icons=true&theme=radical)
-
-### 🏆 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=MostafijurRuman&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-### 📊 Most Used Languages
+![Mostafijur Ruman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafijurRuman&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafijurRuman&layout=compact&theme=radical)
 
-
 ## Get in Touch
-- 📫 Email: [mostafijurruman7@gmail.com](mailto:mostafijurruman7@gmail.com)
+- 📫 Email: [mostafijur@example.com](mailto:mostafijurruman7@gmail.com)
 - 💼 LinkedIn: [Mostafijur Ruman](https://www.linkedin.com/in/mostafijurruman/)
 - 🌟 GitHub: [@MostafijurRuman](https://github.com/MostafijurRuman)
 
