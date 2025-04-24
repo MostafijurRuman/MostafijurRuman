@@ -22,10 +22,8 @@ Here are some of my favorite projects:
 - [**Portfolio Website**](#): A personal portfolio showcasing my skills and projects.
 - [**E-Commerce Platform**](#): A full-stack e-commerce application with modern features.
 
-## GitHub Stack
-- **Repositories:** ![Total Repositories](https://img.shields.io/github/repo-count/MostafijurRuman?style=flat-square)
-- **Current Streak:** ![GitHub Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true)
-- **Longest Streak:** ![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true&mode=longest)
+![GitHub Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true)  
+![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true&mode=longest)
 
 ## GitHub Stats
 ![Mostafijur Ruman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafijurRuman&show_icons=true&theme=radical)  
