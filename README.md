@@ -28,6 +28,8 @@ Here are some of my favorite projects:
 ## GitHub Stats
 ![Mostafijur Ruman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafijurRuman&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafijurRuman&layout=compact&theme=radical)
+
+## GitHub Streak
 ![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true&mode=longest)
 
 ## Get in Touch
