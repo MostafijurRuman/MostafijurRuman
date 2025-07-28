@@ -33,7 +33,7 @@ Here are some of my favorite projects:
 ![GitHub Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=MostafijurRuman&theme=radical&hide_border=true&mode=longest)
 
 ## Get in Touch
-- 📫 Email: [mostafijur@example.com](mailto:mostafijurruman7@gmail.com)
+- 📫 Email: [mostafijurruman7@gmail.com](mailto:mostafijurruman7@gmail.com)
 - 💼 LinkedIn: [Mostafijur Ruman](https://www.linkedin.com/in/mostafijurruman/)
 - 🌟 GitHub: [@MostafijurRuman](https://github.com/MostafijurRuman)
 
