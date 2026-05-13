@@ -2,7 +2,7 @@
 
 # Mostafijur Ruman
 
-### Full-Stack Developer • Next.js • TypeScript • Scalable Web Architecture
+### Full-Stack Developer • Next.js • Node.js • Prisma • PostgreSQL • Building Scalable SaaS Platforms
 
 <p>
 Building modern, scalable, and production-ready web applications with clean architecture, optimized performance, and exceptional user experiences.
